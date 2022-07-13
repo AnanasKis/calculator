@@ -1,0 +1,15 @@
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.csproj.AssemblyReference.cache
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.AssemblyInfoInputs.cache
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.AssemblyInfo.cs
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.csproj.CoreCompileInputs.cache
+C:\Users\Кёртис\source\repos\calculater\calculater\bin\Debug\net6.0\calculater.exe
+C:\Users\Кёртис\source\repos\calculater\calculater\bin\Debug\net6.0\calculater.deps.json
+C:\Users\Кёртис\source\repos\calculater\calculater\bin\Debug\net6.0\calculater.runtimeconfig.json
+C:\Users\Кёртис\source\repos\calculater\calculater\bin\Debug\net6.0\calculater.dll
+C:\Users\Кёртис\source\repos\calculater\calculater\bin\Debug\net6.0\calculater.pdb
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.dll
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\refint\calculater.dll
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.pdb
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\calculater.genruntimeconfig.cache
+C:\Users\Кёртис\source\repos\calculater\calculater\obj\Debug\net6.0\ref\calculater.dll
